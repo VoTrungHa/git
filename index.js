@@ -2,7 +2,7 @@
  
  function Cat()
  {
-     console.log("catfdasfa")
+     console.log("chuc ba thanh cong")
       
    
  }
